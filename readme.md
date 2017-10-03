@@ -1,4 +1,6 @@
 # Valgrind Exercise
+[![Build Status](https://travis-ci.org/MichiMaestre/Valgrind-exercise.svg?branch=master)](https://travis-ci.org/MichiMaestre/Valgrind-exercise)
+
 To install and compile the repository:
 ```
 git clone --recursive https://github.com/MichiMaestre/Valgrind-exercise.git
